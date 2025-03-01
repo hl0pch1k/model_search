@@ -1,3 +1,8 @@
+HEAD
 Изменение от branch2
 Еще изменение branch2
 Финальное изменение branch2
+Изменение от branch1
+Еще изменение branch1
+Финальное изменение branch1
+branch1
